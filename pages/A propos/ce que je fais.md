@@ -8,7 +8,7 @@ layout: home
     <div class="hero-content">
       <div class="hero-text">
         <span class="greeting">👋 Salut, moi c'est</span>
-        <h1><strong>Grace Vayisiriria</strong></h1>
+        <h1><strong>Anita Mudjudju</strong></h1>
         <p class="tagline">Développeuse passionnée par la technologie, les projets innovants et le partage de connaissances.</p>
         <div class="hero-buttons">
           <a href="#projets" class="btn btn-primary">Voir mes projets</a>
@@ -128,7 +128,7 @@ layout: home
         <i class="fas fa-envelope"></i>
         M'envoyer un email
       </a>
-      <a href="https://github.com/gracevayisiriria" class="btn btn-secondary" target="_blank">
+      <a href="https://github.com/anitamudjudju-hub" class="btn btn-secondary" target="_blank">
         <i class="fab fa-github"></i>
         Voir mon GitHub
       </a>
@@ -476,4 +476,5 @@ document.addEventListener('DOMContentLoaded', function() {
     observer.observe(el);
   });
 });
+
 </script>
