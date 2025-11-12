@@ -1,15 +1,15 @@
-title: "Grace Vayisiriria"
+title: "Anita Mudjudju"
 baseline: "Développeur Etudiant passionné"
 description: "Développeur passionnée par la technologie, les projets innovants et le partage de connaissances."
 
 params:
-  author: "Grace VayisiririaBlog"
-  github: "https://github.com/gracevayisiriria"
+  author: "Anita Mudjudju"
+  github: "https://github.com/anitamudjudju-hub"
   email: "grace@example.com"
   social:
     - name: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/gracevayisiriria"
+      url: "https://github.com/anitamudjudju-hub"
     - name: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "#"
@@ -30,4 +30,5 @@ menu:
       weight: 3
     - name: "Contact"
       url: "/contact/"
+
       weight: 4
