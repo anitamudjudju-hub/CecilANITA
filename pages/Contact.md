@@ -1,7 +1,7 @@
 # 📞 Contacts
 
 Merci de votre visite sur mon site !  
-Je suis **Grace vayisiriria**, développeur passionné par la technologie, la foi et les projets au service des communautés.
+Je suis **Anita Mudjudju**, développeur passionné par la technologie, la foi et les projets au service des communautés.
 
 N’hésitez pas à me contacter pour :
 - 💬 Discuter d’un projet ou d’une collaboration  
@@ -12,9 +12,9 @@ N’hésitez pas à me contacter pour :
 
 ## 💌 Me contacter
 
-📧 **Email :** [christienmigheri@gmail.com](mailto:migherichristien@gmail.com)  
-🌐 **Site web :** [https://migherichristien.github.io/MIGHERIChristien/](https://migherichristien.github.io/MIGHERIChristien/)  
-🐙 **GitHub :** [https://github.com/migherichristien](https://github.com/migherichristien)  
+📧 **Email :** [anitamudjudju@gmail.com](mailto:anitamudjudju@gmail.com)  
+🌐 **Site web :** [https://anitamudjudju-hub.github.io/anitamudjudju/](https://anitamudjudju-hub.github.io/anitamudjudju/)  
+🐙 **GitHub :** [https://github.com/anitamudjudju-hub](https://github.com/anitamudjudju)  
 
 ---
 
@@ -171,3 +171,4 @@ caution
 Note here.
 :::
 ```
+
